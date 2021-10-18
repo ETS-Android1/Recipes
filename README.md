@@ -1,7 +1,7 @@
 # Recipes
 
-A java android mobile social network application using FireBase (authentication, database and messaging).
-In this app everyone can register and share their recipes and can see other recipes.
+A social network application for android users, using Firebase for authentication, database and messaging.
+In this app everyone can register and share their recipes and can see other users recipes.
 https://www.youtube.com/watch?v=m_MjeubXxHc
 
 
