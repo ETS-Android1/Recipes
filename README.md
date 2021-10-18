@@ -22,8 +22,7 @@ Services, Broadcast Receivers, Notifications with Pending Intents and Alarm Mana
 
 <img width="334" alt="137288043-5527499a-4aa6-49d9-ac62-8bd0774e7273" src="https://user-images.githubusercontent.com/24552181/137694216-e3639830-ca4d-43d0-9e2a-86b7bf75ea16.png">
 
-<img width="334" alt="profile page" src="https://user-images.githubusercontent.com/24552181/137698318-cc444843-e11a-4574-8a36-80f8effaccd5.png">
-![Capture width="334"](https://user-images.githubusercontent.com/24552181/137698899-856890ea-a6a5-41dc-9dce-c3c7feaa238a.png)
+<img width="334" src="https://user-images.githubusercontent.com/24552181/137698899-856890ea-a6a5-41dc-9dce-c3c7feaa238a.png">
 
 
 
